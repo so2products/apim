@@ -1,2 +1,1 @@
-# apim
-api manager
+# api manager configs
